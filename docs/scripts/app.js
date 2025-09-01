@@ -2,7 +2,7 @@ const employees = [
   {
     id: 1,
     name: "احمد رضایی",
-    image: "/docs/images/user1.jpg",
+    image: "images/user1.jpg",
     code: "cu009",
     number: "09223150000",
     email: "ahmad@gmail.com",
@@ -11,7 +11,7 @@ const employees = [
   {
     id: 2,
     name: "بابک رجایی",
-    image: "/docs/images/user2.jpg",
+    image: "images/user2.jpg",
     code: "zz50",
     number: "09183600000",
     email: "babak@gmail.com",
@@ -20,7 +20,7 @@ const employees = [
   {
     id: 3,
     name: "امیر شکوهی",
-    image: "/docs/images/user3.jpg",
+    image: "images/user3.jpg",
     code: "wu001",
     number: "09108070707",
     email: "amir@gmail.com",
@@ -29,7 +29,7 @@ const employees = [
   {
     id: 4,
     name: "مجتبی سروش",
-    image: "/docs/images/user4.jpg",
+    image: "images/user4.jpg",
     code: "qa80",
     number: "09213499999",
     email: "mojtaba@gmail.com",
@@ -38,7 +38,7 @@ const employees = [
   {
     id: 5,
     name: "کوروش جهانبخش",
-    image: "/docs/images/user5.jpg",
+    image: "images/user5.jpg",
     code: "jj50",
     number: "09033100000",
     email: "korosh@gmail.com",
