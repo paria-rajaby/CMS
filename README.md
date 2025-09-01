@@ -1,6 +1,7 @@
 # CMS Project
 
 A clean and simple project management system build with `HTML`,`TAILWIND`,`JAVASCRIPT`
+Check out the live version of the project here: [View Site](https://paria-rajaby.github.io/CMS/)
 
 ## Features
 
