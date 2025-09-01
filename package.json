@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build" : "npx @tailwindcss/cli -i ./src/input.css -o ./public/styles/app.css --watch"
+    "build" : "npx @tailwindcss/cli -i ./src/input.css -o ./docs/styles/app.css --watch"
   },
   "dependencies": {
     "@tailwindcss/cli": "^4.1.11",
